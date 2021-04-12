@@ -5,10 +5,10 @@ Open these files in processing 3 (make sure these files are in a folder called A
 
 Press:
 
-mouse click - to add a point at specific place ||
+mouse click - to add a point at specific place 
 
-g - to add new random points ||
+g - to add new random points 
 
-w - to perform GiftWrap Animation ||
+w - to perform GiftWrap Animation 
 
-q - to perform quickHull animation ||
+q - to perform quickHull animation 
